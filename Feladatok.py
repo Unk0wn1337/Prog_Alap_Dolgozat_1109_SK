@@ -85,6 +85,7 @@ def otodikFeladat():
             print("Gép nyert: ollo vs papir")
         if felhasznalo_tippje == "ollo" and gep_tippje == 3:
             print("Döntetlen: ollo vs ollo")
-
+    else:
+        print("HIBA: csak papir, ko, ollo lehet")
 
 
